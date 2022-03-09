@@ -1,1 +1,3 @@
 linia pierwsza
+dodatkowa linia
+linia2
